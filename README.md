@@ -1,6 +1,8 @@
-# Vidéo "Comment mener une recherceh bibliographique?"
+# Vidéo "Comment mener une recherche bibliographique?"
 
 Diaporama et texte utilisés pour la séquence vidéo "Comment mener une recherche bibliographique?" du [MOOC PoP-HealtH de l'Isped (université de Bordeaux)](http://www.isped.u-bordeaux.fr/FORMATION/MOOC-PoP-HealtH).
+
+Les bases de données et exemples relèvent de l'épidémiologie, mais ils peuvent être appliqués plus largement au domaine de la santé.
 
 La vidéo dure environ 15 minutes.
 
